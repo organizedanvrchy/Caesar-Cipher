@@ -27,4 +27,5 @@ This Python script implements a Caesar Cipher, a type of substitution cipher use
 ## Running the Program
 To run the program, simply execute the script in your Python environment:
 ```bash
-python caesar_cipher.py
+python main.py
+```
