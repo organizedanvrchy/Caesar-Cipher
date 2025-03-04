@@ -1,4 +1,4 @@
-# Caesar Cipher Program
+# Caesar Cipher Program (CLI)
 
 ## Summary
 This Python script implements a Caesar Cipher, a type of substitution cipher used for encrypting and decrypting text. The program allows the user to encode or decode a message by shifting each letter in the message by a specified number of positions in the alphabet. The program supports both lowercase and uppercase letters (converted to lowercase) and handles non-alphabetic characters (e.g., spaces, punctuation) by leaving them unchanged. The program also includes a loop for continuous use until the user chooses to exit.
